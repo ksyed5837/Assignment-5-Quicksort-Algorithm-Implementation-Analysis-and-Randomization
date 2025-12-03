@@ -6,7 +6,7 @@ This repository contains my implementation and analysis for Assignment 5.
   - Contains both the deterministic and randomized Quicksort implementations.
   - Includes timing/experiment code to compare performance on different input sizes and distributions.
 
-- Quicksort_Report.docx  
+- Report.docx  
   - Detailed report describing:
     - Algorithm design and implementation details
     - Time and space complexity analysis (best, average, worst case)
